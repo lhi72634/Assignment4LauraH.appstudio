@@ -1,4 +1,3 @@
-
 let names = ["Maria", "Laura", "Lucia", "Marta", "Carolina", "Carla", "Marina", "Julia", "Carlota", "Mar", "Lorena", "Alejandra", "Sara", "Caterina", "Natalia", "Cristina", "Ana", "Elisa", "Valentina", "Matilde"]
 let favNames = []
 

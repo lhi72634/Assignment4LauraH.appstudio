@@ -1,4 +1,3 @@
-
 favBabyNames.onshow=function(){
   drpSelected.clear()
   console.log(favNames)
